@@ -65,12 +65,6 @@
 
 <hr/>
 
-<p><h3 align="center">Huzaifa's Statistics:</h3></p>
-
-<p align="center"> 
-        <img height= "300px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=BanegarHuzaifa&show_icons=true&theme=radical" />
-        <img height= "300px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanegarHuzaifa" />
- </p>
 
 <!---
 BanegarHuzaifa/BanegarHuzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
