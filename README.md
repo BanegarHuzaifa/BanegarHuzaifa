@@ -52,13 +52,13 @@
 
 <p>
     <a href="https://www.linkedin.com/in/huzaifabanegar/"><img alt="Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/huzaifabanegar/"
             height="35px" /></a>
     <a href="https://leetcode.com/Huzaifa_Banegar/"><img alt="LeetCode"
             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
             height="35px" /></a>
         <a href="banegarhuzzi1010@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=banegarhuzzi1010@gmail.com"
             height="35px" width = "130px"/></a>
     
 </p>
